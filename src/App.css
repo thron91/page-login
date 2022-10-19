@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  align-items: center;
+  display: block;
+
+
+}
+
+.back{
+  background-image: url("./img/fond.png");
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+}
